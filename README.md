@@ -7,7 +7,7 @@ JavaScript exercise
 <h2> How to Run </h2>
 <ol>
 <li> Download the images, the html and css files in a same folder.</li> 
-<li> Open the html file in your browser </li>
+<li> Open the html file in your browser. </li>
 <li> First click on 'Add PacMan' button this will display a pacman figure. </li>
 <li> Second click on 'Start Game' button this will make the pacman to move randomly in the screen. </li>
 <li> Lastly, you can click on 'Add PacMan button as many times as you want. </li>
