@@ -3,7 +3,7 @@ JavaScript exercise
 <h2> Description </h2>
 <p> Pacman figures are set to randomly bounce between the edges of the screen. </p>
 <p> Pacman figures are set to randomly show different faces. </p>
-<p> Pacman figures reduce their size after they touch the inner width of the screen and their size go back to normal after they touch the inner height of the screen </p>
+<p> Pacman figures reduce their size after they touch the inner width of the screen and their size go back to normal after they touch the inner height of the screen. </p>
 <h2> How to Run </h2>
 <ol>
 <li> Download the images, the html and css files in a same folder.</li> 
